@@ -5,14 +5,16 @@ This is a collection of the various programming homework and classwork assignmen
 * IT 130 - Introduction to Java Programming (Fall 2011)
 * IT 230 - Advanced Java Programming (Spring 2013)
 * IT 320 - Structures of Programming Languages (Fall 2013)
+* IT 340 - Data Structures and Algorithms (Spring 2014)
 
 The following is a description of each snippet:
 * areas.pl: a looped program which can calculate the areas of a circle, square, triangle, rectangle, parallelogram, ellipse, and trapezoid (Prolog)
+* Assignment4Lumba: a program that lists the count of unique words in a given string. (Java)
 * CountFamilies.java: a program that takes into account the number of families, records each family's salary in an array, and calculates the highest income of the families
 * hw1.lex: a LEX file that shows the data definition for the parsing program in hw1.y
 * hw1.y: a Bison file that checks the syntax of a proper for, do while, and while loop (pseudocode)
-* hw2.sml: a program which can calculate the areas of a circle, square, triangle, rectangle, parallelogram, ellipse, and trapezoid (ML) 
-* hw4.cpp: a program which can calculate the areas of a circle, square, triangle, rectangle, parallelogram, ellipse, and trapezoid (C++) 
+* hw2.sml: a program which can calculate the areas of a circle, square, triangle, rectangle, parallelogram, ellipse, and trapezoid (ML)
+* hw4.cpp: a program which can calculate the areas of a circle, square, triangle, rectangle, parallelogram, ellipse, and trapezoid (C++)
 * OrderException.java: a program snippet that throws an exception in PizzaOrder5.java when a person orders more than 5 pizzas (Java)
 * PizzaOrder5.java: a program that records pizza up to 5 pizza orders and places them into a text file (Java)
 * pizza.cpp: a program that calculates pizza prices in a loop based on a pizza size and quantity (C++)
